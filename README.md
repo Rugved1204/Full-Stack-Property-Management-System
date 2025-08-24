@@ -1,6 +1,6 @@
 # 🏢 Property Management System  
 
-A **full-stack MERN (MongoDB, Express, React, Node.js) application** for managing properties, tenants, and rentals. This project provides a foundation for building a property management platform similar to Entrata, including backend APIs, frontend UI, and MongoDB integration.  
+A **full-stack MERN (MongoDB, Express, React, Node.js) application** for managing properties, tenants, and rentals. This project provides a foundation for building a property management platform, including backend APIs, frontend UI, and MongoDB integration.  
 
 ---
 
@@ -41,4 +41,5 @@ property-management-system/
 │── frontend/         # React app
 │── package.json
 │── README.md
+
 
